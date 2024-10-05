@@ -1,0 +1,9 @@
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\obj\Debug\ABC_Personas.Form1.resources
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\obj\Debug\ABC_Personas.Properties.Resources.resources
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\obj\Debug\ABC_Personas.csproj.GenerateResource.Cache
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\bin\Debug\ABC_Personas.exe.config
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\bin\Debug\ABC_Personas.exe
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\bin\Debug\ABC_Personas.pdb
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\obj\Debug\ABC_Personas.exe
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\obj\Debug\ABC_Personas.pdb
+C:\xampp\htdocs\primerparcial324\preg5\ABC_Personas\ABC_Personas\obj\Debug\ABC_Personas.csprojResolveAssemblyReference.cache
